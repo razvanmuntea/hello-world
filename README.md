@@ -1,4 +1,4 @@
 # hello-world
-This is a place where magic does not happen
+This is a test repository
 
-Knowledge through science is the only true path to freedom.
+"Knowledge through science is the only true path to freedom." unknown author after a couple of beers
